@@ -1,0 +1,7 @@
+*//Pire Code Jamais crée Fishing_Raid//*
+
+
+{"name":"Fish","permissions":"NONE","restriction":"1","actions":[{"info":"0","find":"643793918504337419","storage":"3","varName":"channel","name":"Find Channel"},{"channel":"1","varName":"text","message":"Bien Recus Chef ! Apres avoir fini le raid merci de faire 
+*Stop_(NomsDuRaid) exemple : Stop_Fish_Raid","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"},{"message":"0","varName":"","info":"2","storage":"1","varName2":"text","name":"Store Message Info"},
+{"message":"0","varName":"username","info":"3","storage":"1","varName2":"username","name":"Store Message Info"},{"channel":"7","varName":"channel","message":"${tempVars(\"username\")} *Variable_Role* a lancé un raid fish merci de mettre vos pseudo \"Ingame\" pour y 
+participé ","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}],"event-type":"0"}
